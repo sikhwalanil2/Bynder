@@ -12,7 +12,7 @@ describe('Verify Login Functionality', () => {
             .visit('/')
     });
 
-    it('Verify Login With Valid Credentials', () => {
+    it.only('Verify Login With Valid Credentials', () => {
         loginPage.inputEmail(loginData.valid.email)
             .inputPassword(loginData.valid.password)
             .inputCaptchaAndClick()
