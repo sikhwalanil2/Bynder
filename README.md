@@ -21,18 +21,17 @@ npm install
 ```bash
 ## Run Test on local with headless  mode
 npm run test
-<img width="1334" alt="image" src="https://user-images.githubusercontent.com/47314061/191962490-e8a1351c-c4dd-4fc3-b476-7bba9526c36c.png">
+<img width="1166" alt="Screenshot 2023-05-09 at 7 59 21 AM" src="https://user-images.githubusercontent.com/31472941/236978865-9c28a63d-3b2d-44cb-845a-5384a16b1749.png">
 
 
 ## Run Test on local with docker
 npm run docker-test
-<img width="1335" alt="image" src="https://user-images.githubusercontent.com/47314061/191962638-bbbd32b5-912f-4fe4-9d7e-53c73da3c82f.png">
+<img width="1151" alt="Screenshot 2023-05-09 at 7 58 22 AM" src="https://user-images.githubusercontent.com/31472941/236978923-3b2ce11f-74e8-407b-93e1-c870b5759ac1.png">
 
 ```
 ### 4. Deal with Test runner
 ```bash
 ## launch the cypress test runner
 npm run cy:open
-<img width="1693" alt="image" src="https://user-images.githubusercontent.com/47314061/191962742-7a43cb60-e921-4b52-82e2-578719b4d45f.png">
-
+<img width="1457" alt="Screenshot 2023-05-09 at 8 04 02 AM" src="https://user-images.githubusercontent.com/31472941/236979316-b364dbee-f27b-40c7-ab0a-1b5443c0fab1.png">
 ```
