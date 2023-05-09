@@ -1,0 +1,22 @@
+{
+  "name": "bynder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "docker-test": "docker run -it -v $PWD:/e2e -w /e2e cypress/included:10.8.0",
+    "cy:open": "npx cypress open"
+},
+"keywords": [],
+  "author": "Anil Sikhwal",
+  "license": "ISC",
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/sikhwalanil2/Bynder.git"
+},
+"homepage": "https://github.com/sikhwalanil2/Bynder#readme",  
+  "devDependencies": {
+    "cypress": "^12.11.0"
+  }
+}
